@@ -1,8 +1,8 @@
 Домашнее задание
 
 1. [x] [Скачать и устноавить VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. [ ] [Установить расширение VirtualBox ExtensionPack](https://www.virtualbox.org/wiki/Downloads)
-3. [ ] [Скачать и установить в VirtualBox образ Kali Linux VirtualBox Images](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/#1572305786534-030ce714-cc3b)
+2. [x] [Установить расширение VirtualBox ExtensionPack](https://www.virtualbox.org/wiki/Downloads)
+3. [x] [Скачать и установить в VirtualBox образ Kali Linux VirtualBox Images](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/#1572305786534-030ce714-cc3b)
 4. [ ] [Скачать и установить WireShark](https://www.wireshark.org/#download)
 5. [ ] [Скачать и установить GNS3](https://www.gns3.com)
 6. Прочитать обзор по настройке и использованию GNS3
